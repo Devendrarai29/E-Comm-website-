@@ -1,7 +1,7 @@
-package cn.harsh.dao;
+package cn.devendra.dao;
 
 import java.sql.*;
-import cn.harsh.model.*;
+import cn.devendra.model.*;
 
 public class UserDao {
 	private Connection con;
