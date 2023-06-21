@@ -1,4 +1,4 @@
-package cn.harsh.servlet;
+package cn.devendra.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import cn.harsh.model.Cart;
+import cn.devendra.model.Cart;
 
 @WebServlet("/remove-from-cart")
 public class RemoveFromCartServlet extends HttpServlet {
