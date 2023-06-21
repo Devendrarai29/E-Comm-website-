@@ -1,4 +1,4 @@
-package cn.harsh.connection;
+package cn.devendra.connection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
