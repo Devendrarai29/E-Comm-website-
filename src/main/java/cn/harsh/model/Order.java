@@ -1,6 +1,6 @@
-package cn.harsh.model;
+package cn.devendra.model;
 
-import cn.harsh.model.Product;
+import cn.devendra.model.Product;
 
 public class Order extends Product{
 	private int orderId;
