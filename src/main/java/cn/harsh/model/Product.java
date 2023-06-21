@@ -1,4 +1,4 @@
-package cn.harsh.model;
+package cn.devendra.model;
 
 public class Product {
 	private int id;
