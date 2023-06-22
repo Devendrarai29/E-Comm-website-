@@ -1,10 +1,10 @@
-package cn.harsh.dao;
+package cn.devendra.dao;
 
 import java.sql.*;
 import java.util.*;
 
-import cn.harsh.model.Product;
-import cn.harsh.model.Cart;
+import cn.devendra.model.Product;
+import cn.devendra.model.Cart;
 
 public class ProductDao {
 	private Connection con;

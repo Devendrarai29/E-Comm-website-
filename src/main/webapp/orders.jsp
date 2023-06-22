@@ -1,8 +1,8 @@
 <%@page import="java.text.DecimalFormat"%>
-<%@page import="cn.harsh.dao.OrderDao"%>
-<%@page import="cn.harsh.connection.DbCon"%>
-<%@page import="cn.harsh.dao.ProductDao"%>
-<%@page import="cn.harsh.model.*"%>
+<%@page import="cn.devendra.dao.OrderDao"%>
+<%@page import="cn.devendra.connection.DbCon"%>
+<%@page import="cn.devendra.dao.ProductDao"%>
+<%@page import="cn.devendra.model.*"%>
 <%@page import="java.util.*"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>

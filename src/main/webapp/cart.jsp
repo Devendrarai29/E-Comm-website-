@@ -1,6 +1,6 @@
-<%@page import="cn.harsh.connection.DbCon"%>
-<%@page import="cn.harsh.model.*"%>
-<%@page import="cn.harsh.dao.ProductDao"%>
+<%@page import="cn.devendra.connection.DbCon"%>
+<%@page import="cn.devendra.model.*"%>
+<%@page import="cn.devendra.dao.ProductDao"%>
 <%@page import="java.util.*"%>
 <%@page import="java.text.DecimalFormat"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"

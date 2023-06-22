@@ -1,4 +1,4 @@
-package cn.harsh.dao;
+package cn.devendra.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,4 +1,4 @@
-package cn.harsh.servlet;
+package cn.devendra.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -13,9 +13,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import cn.harsh.connection.DbCon;
-import cn.harsh.dao.OrderDao;
-import cn.harsh.model.*;
+import cn.devendra.connection.DbCon;
+import cn.devendra.dao.OrderDao;
+import cn.devendra.model.*;
 
 
 @WebServlet("/cart-check-out")
